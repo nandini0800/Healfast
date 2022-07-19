@@ -1,0 +1,3 @@
+ In the time of the covid pandemic me and my team thought of this idea because we can’t move out of our house and thus we are facing difficulty to buy our essential things. Medicines being one of the essential things, should be provided to the people with utmost safety and as fast as possible. So, this is a project which allows users to order medicines, the program will find the nearest Pharmacy from the customer’s home, and suggest him medicines according to his previous history. We can solve the problem of the user to find Pharmacy which is nearest to his house.
+We are using Dijkstra's algorithm to find the nearest Pharmacy. 
+Dijkstra algorithm is a generalization of BFS algorithm. 
